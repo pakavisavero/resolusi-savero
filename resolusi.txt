@@ -3,3 +3,4 @@ Tujuan pada masa depan
 - Menguasai FLutter
 - Menguasai Laravel
 - Master pada Python
+- Menjadi Data Scientist
